@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp,x86&includeNames=True)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode,linux,nano)](https://github.com/Jurredr/github-widgetbox)
 
