@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... C++ can be better
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp,x86,kotlin&includeNames=True)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp,x86,kotlin&includeNames=True&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode,linux)](https://github.com/Jurredr/github-widgetbox)
 
