@@ -7,7 +7,4 @@
 - ⚡ Fun fact: ... C++ can be better
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp&includeNames=True&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode,linux&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-
+https://camo.githubusercontent.com/d999d1c2758c202078387a7b0f25dc6a7cb04375573596ae88874a3b011c7fb5/68747470733a2f2f6769746875622d726561646d652d73746174732e6861636b636c75622e6465762f6170692f77616b6174696d653f757365726e616d653d363830266170695f646f6d61696e3d6861636b6174696d652e6861636b636c75622e636f6d2626637573746f6d5f7469746c653d4861636b6174696d652b5374617473266c61796f75743d636f6d706163742663616368655f7365636f6e64733d30266c616e67735f636f756e743d38267468656d653d6361747070756363696e5f6d6f636861
