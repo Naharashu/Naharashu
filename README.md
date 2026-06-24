@@ -7,4 +7,4 @@
 - ⚡ Fun fact: ... C++ can be better
 
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Naharashu&api_domain=hackatime.hackclub.com)
+![Hackatime Stats](https://hackatime.hackclub.com/api/summary?start=&from=&end=&to=&interval=&range=&user_id=&user=Naharashu)
