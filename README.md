@@ -7,4 +7,4 @@
 - ⚡ Fun fact: ... C++ can be better
 
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Danilo Poleno&api_domain=hackatime.hackclub.com)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=DaniloPoleno&api_domain=hackatime.hackclub.com)
